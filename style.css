@@ -1,0 +1,14 @@
+.button {
+  background: green;
+  width: 10%;
+  height: 10%;
+  color: white;
+  margin-top: 50px;
+  padding: 10px;
+  border: 2px;
+  border-radius: 2%;
+}
+
+.mt-02 {
+  margin-left: 50px;
+}
